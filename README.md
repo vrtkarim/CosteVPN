@@ -4,7 +4,7 @@
 CosteVPN is a vpn app using Dart and Flutter framework using OpenVpn configs.
 
 
-## 1st : add those lines to your kotlin MainActivity
+## 1st : add this plugin to your project (pubspec.yaml)
 ```
 openvpn_flutter: ^1.2.2
 ```
