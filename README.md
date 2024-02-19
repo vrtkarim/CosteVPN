@@ -33,8 +33,8 @@ class MainActivity: FlutterActivity() {
 
 
 ## App Screenshots: 
-![App Screenshot](https://github.com/vrtkarim/CosteVPN/assets/109855615/4b6c1e61-9518-4469-b903-a60bbd94af9c)
+<img src="https://github.com/vrtkarim/CosteVPN/assets/109855615/4b6c1e61-9518-4469-b903-a60bbd94af9c" width="300" alt="Screenshot">
+<img src="https://github.com/vrtkarim/CosteVPN/assets/109855615/2da0bef4-143e-4c26-8aa7-66db685df197" width="300" alt="Screenshot">
 
-![App Screenshot](https://github.com/vrtkarim/CosteVPN/assets/109855615/2da0bef4-143e-4c26-8aa7-66db685df197)
 
 
